@@ -91,6 +91,7 @@ CSS file
   box-shadow: 0 0 3px #ff0,
               0 0 10px #ff0;
 }
+
 .container .box:nth-child(9n+5):hover:before
 {
   background: #0ff;
@@ -98,12 +99,14 @@ CSS file
               0 0 10px #0ff;
 }
 
+
 .container .box:nth-child(9n+6):hover:before
 {
   background: #f0f;
   box-shadow: 0 0 3px #f0f,
               0 0 10px #f0f;
 }
+
 .container .box:nth-child(9n+7):hover:before
 {
   background: #e91e63;
@@ -111,15 +114,19 @@ CSS file
               0 0 10px #e91e63;
 }
 
+
 .container .box:nth-child(9n+8):hover:before
 {
   background: #00ffad;
   box-shadow: 0 0 3px #00ffad,
               0 0 10px #00ffad;
+              
 }
 .container .box:nth-child(9n+9):hover:before
 {
+
   background: #f45103;
   box-shadow: 0 0 3px #f45103,
               0 0 10px #f45103;
 }
+
